@@ -1,0 +1,3 @@
+[submodule "Localization_Outdoor/src/auto_loadmap"]
+	path = Localization_Outdoor/src/auto_loadmap
+	url = git@github.com:Khanh-embedded247/auto_loadmap.git
